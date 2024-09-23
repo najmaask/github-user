@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="image_splashscreen">Image splashscreen</string>
+    <string name="searchbar_hint">Cari user di sini</string>
+    <string name="search">Search</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="username_tag">\u0040%s</string>
+    <string name="nothing_follow">There isn\'t\ data</string>
+    <string name="avatar">Avatar</string>
+    <string name="favorite">Favorite</string>
+    <string name="darkmode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
